@@ -1,0 +1,28 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+button {
+    font-size: 20px;
+}
+
+.mein {
+    background-color: green;
+    color: white;
+  }
+  
+.cheese {
+    background-color: rgb(255, 255, 0);
+    color: black;
+  }
+
+/* for links */
+a {
+    text-decoration: none;
+  }
